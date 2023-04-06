@@ -1,4 +1,5 @@
 multi input, multi output
+
 ```
 // Hellos returns a map that associates each of the named people
 // with a greeting message.
